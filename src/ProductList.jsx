@@ -332,7 +332,6 @@ function ProductList({ onHomeClick }) {
                                 }}
                               >
                                 {addedToCart[plant.name] ? 'Added to Cart' : 'Add to Cart'}
-                                Add to Cart
                               </button>
                             </div>
                           ))}
